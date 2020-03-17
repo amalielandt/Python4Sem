@@ -5,5 +5,4 @@
 #### Week 3 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week3/week3.ipynb)
 #### Week 4 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week4/week4-exercise.ipynb)
 #### Week 5 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week5/week5-exercise.ipynb)
-#### Week 7 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-exercise.ipynb)
-* I did the exercise made by the group: Free-Range Chickens 
+#### Week 7 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-exercise.ipynb): I did the exercise made by the group: Free-Range Chickens 
