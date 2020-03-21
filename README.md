@@ -8,3 +8,6 @@
 #### Week 7 exercise
 * I did the exercise made by the group: Free-Range Chickens - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-exercise.ipynb)
 * Solution for the exercise my group made (Grieving Banana) - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-solution.ipynb)
+#### Week 8 exercise
+* I did the exercise made by the group: Blushing Unit - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week8/week8%20-%20exercise.ipynb)
+* Solution for the exercise my group made (Grieving Banana) - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week8/week-8-group_exercise.ipynb)
