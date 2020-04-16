@@ -13,6 +13,6 @@
 * Solution for the exercise my group made (Grieving Banana) - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week8/week-8-group_exercise.ipynb)
 #### Week 9 exercise
 * I did the exercise made by the group: Happy County - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week9/week9-exercise.ipynb)
+* Exercise 3 [Flask](https://github.com/amalielandt/Python4Sem/blob/master/week9/exercise3.py)
 * Solution for the exercise my group made (Grieving Banana) - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week9/week9-group-exercise.ipynb)
-* Solution for exercise 3 (Flask) - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week9/exercise3.py)
 #### Week 10 exercise - [Click her](https://github.com/amalielandt/Python4Sem/blob/master/week10/week10-exercise.ipynb)
