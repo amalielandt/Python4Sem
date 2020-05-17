@@ -5,6 +5,7 @@
 #### Week 3 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week3/week3.ipynb)
 #### Week 4 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week4/week4-exercise.ipynb)
 #### Week 5 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week5/week5-exercise.ipynb)
+#### Week 6 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week6/week6-exercise.ipynb)
 #### Week 7 exercise
 * I did the exercise made by the group: Free-Range Chickens - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-exercise.ipynb)
 * Solution for the exercise my group made (Grieving Banana) - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week7/week7-solution.ipynb)
@@ -16,3 +17,5 @@
 * Exercise 3 [Flask](https://github.com/amalielandt/Python4Sem/blob/master/week9/exercise3.py)
 * Solution for the exercise my group made (Grieving Banana) - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week9/week9-group-exercise.ipynb)
 #### Week 10 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week10/week10-exercise.ipynb)
+#### Week 11 exercise - [Click here](https://github.com/amalielandt/Python4Sem/blob/master/week11/week11-exercise.ipynb)
+
